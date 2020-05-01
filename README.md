@@ -14,3 +14,6 @@
 ##
 * 命令行启动spring contract: https://github.com/ryanzhang/coolstore/tree/master/catalog#how-to-start-contract-by-stub-runner-command-line
 
+## 常用的SaaS api服务
+ * Star war 人物: https://swapi.dev
+
