@@ -7,6 +7,7 @@
   * Kafka: https://github.com/ryanzhang/quarkus-quickstart/tree/master/kafka-quickstart#%E5%90%AF%E5%8A%A8kafka
     * docker compose: https://github.com/ryanzhang/quarkus-quickstart/blob/master/kafka-quickstart/docker-compose.yml
   * Artimis: https://github.com/ryanzhang/quarkus-quickstart/tree/master/amqp-quickstart#%E5%90%AF%E5%8A%A8-artimis
+  * Infinispan: https://infinispan.org/blog/2019/12/02/image/
   * Keycloak:  
    * 容器启动: 
    * 非容器启动以及配置： https://raw.githubusercontent.com/ryanzhang/springboot-restful-crud/msa-ss-sso/keycloak/run.sh?token=AAEAVKN6NEZC2FAV3DTZBNS6VP32Q
