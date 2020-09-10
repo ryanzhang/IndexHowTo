@@ -29,6 +29,8 @@
 ## 常用的SaaS api服务
  * Star war 人物: https://swapi.dev
  * github api https://github.com/ryanzhang/github-housekeep#github-api
+ * Fruid service: https://fruityvice.com/
+ * 国内常用免费api: http://api.63code.com/
  
 ## 加速
  * 国内镜像加速: https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6
